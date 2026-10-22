@@ -6,11 +6,13 @@ This repository was created to explain the **different necessary steps to use th
 
 - Use **Globus to download from ManGo** the folder of the Cell browser you want to use
 
-The folders (zip files) can be found here https://mango.kuleuven.be/collection/browse/set/home/seuntjens/Seuntjens%20Lab/Octoteam/Omics%20datasets/Cell%20browsers
+The folders (zip files) can be found [here](https://mango.kuleuven.be/collection/browse/set/home/seuntjens/Seuntjens%20Lab/Octoteam/Omics%20datasets/Cell%20browsers)
 
 - Put the zip file in a convenient location on your computer
 
-Warning: Make sure the preceding folders where the zip file is situated don't contain spaces in their names
+> [!WARNING]
+> **Make sure the preceding folders where the zip file is situated don't contain spaces in their names.**
+> **If it's the case, rename your folders and replace the spaces with underscores.**
 
 - Unzip the zip file
 
