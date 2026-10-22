@@ -15,14 +15,14 @@ This repository was created to explain the **different necessary steps to use th
 > **Make sure the preceding folders where the zip file is situated don't contain spaces in their names.**
 > **If it's the case, rename your folders and replace the spaces with underscores.**
 
-- Unzip the zip file
+- **Unzip** the zip file
 
-- Open Anaconda Prompt (like for Easy_HCR use)
+- Open **Anaconda Prompt** (like for Easy_HCR use)
 
-- Move into the folder you just unzipped with the command: `cd C:\Users\path\to\the\correct\location`
+- **Move** into the **folder you just unzipped** with the command: `cd C:\Users\path\to\the\correct\location`
 
-- Run the following command: `python -m http.server 8000`
+- **Run** the following command: `python -m http.server 8000`
 
-- Go to your favorite web browser and paste the following URL address: `http://localhost:8000/`
+- Go to your favorite **web browser** and **paste the following URL** address: `http://localhost:8000/`
 
 This should open the UCSC cell browser in your web browser
